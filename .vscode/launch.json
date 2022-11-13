@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "url": "file:///C:/Users/20122/Downloads/Javascript/secion%202/2-%20basics-02-added-scripts-imports/basics-02-added-scripts-imports/index.html",
+            "url": "file:///C:/Users/20122/Downloads/Javascript/Projects/SimpleCalculatorUsingJS/index.html",
             "webRoot": "${workspaceFolder}"
         }
     ]
